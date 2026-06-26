@@ -34,9 +34,9 @@ int main(){
          printf("Access Denied Try again after 24hrs");
      }
      }
-   
+}  
 return 0;
-}
+
 }
 
 void inputcode(char secretx[ ]){
